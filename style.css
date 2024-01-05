@@ -1,0 +1,88 @@
+.mainfoot{
+    background-color: #0CEE72;
+}
+.mainfoot h2{
+    text-align: center;
+}
+footer{
+    color:white;
+    background-color: black;
+}
+.navli:hover{
+    color:#0CEE72;
+    padding: 20px;
+}
+.donatebutton{
+    font-size: 1.7rem;
+    padding: var(--space-xs) var(--space-l);
+    line-height: 2.4rem;
+    letter-spacing: 0.1rem;
+    text-transform: uppercase;
+    border-radius: 4.8rem;
+    color: var(--color-black);
+    border: 0.1rem solid var(--color-black);
+}
+.navlilogo{
+    transition: fill 200ms var(--ease-quart-in-out);
+    box-sizing: inherit;
+}
+.therailpark{
+    display: block;
+    text-align: left;
+    position: relative;
+    translate: none;
+    rotate: none;
+    scale: none;
+    transform: translate(0px, 0px);
+    font-weight: 600;
+    color: #131313;
+    font-size: 120px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.phaseone{
+    display: block;
+    text-align: left;
+    position: relative;
+    translate: none;
+    rotate: none;
+    scale: none;
+    transform: translate(0px, 0px);
+    font-weight: 600;
+    color: #131313;
+    font-size: 45px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.planyourvisit{
+    color:#0CEE72;
+    font-size:3rem;
+}
+.visitingpark{
+    translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);
+    font-size: 65px;
+    margin:0px;
+    padding:0px;
+    border:0px;
+}
+.noblestentrance{
+    font-size: clamp(3.5rem, 3.1471rem + 1.1029vw, 5rem);
+    line-height: 1;
+    letter-spacing: -0.15rem;
+    text-align: right;
+}
+.wheelchair{
+    align-content: end;
+}
+.noblest{
+    text-align: right;
+    font-size: 20px;
+}
+.threemilegreenway{
+    display: block; text-align: left; position: relative; translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;
+    font-size: 70px;
+    font-weight: 600;
+}
+.highlight{
+    color: #0CEE72;
+    font-size: 70px;
+    font-weight: 600;
+}
